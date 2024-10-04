@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+<script src="https://unpkg.com/dayjs"></script>
+<script src="https://unpkg.com/dayjs/locale/ko.js"></script>
+<script>
+  dayjs.locale('ko')
+  console.log("요일 : ", dayjs(new Date()).format("YYYY-MM-DD(dd) HH:mm:ss"));
+</script>
+</body>
+</html>
