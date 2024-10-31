@@ -1,0 +1,152 @@
+[
+  {
+    "index": 1,
+    "name": "강남구",
+    "image": "https://data.seoul.go.kr/resources/img/content/gu_1.png",
+    "homepage": "http://www.gangnam.go.kr"
+  },
+  {
+    "index": 2,
+    "name": "강동구",
+    "image": "https://data.seoul.go.kr/resources/img/content/gu_2.png",
+    "homepage": "http://www.gd.go.kr"
+  },
+  {
+    "index": 3,
+    "name": "강북구",
+    "image": "https://data.seoul.go.kr/resources/img/content/gu_3.png",
+    "homepage": "http://www.gangbuk.go.kr"
+  },
+  {
+    "index": 4,
+    "name": "강서구",
+    "image": "https://data.seoul.go.kr/resources/img/content/gu_4.png",
+    "homepage": "http://www.gangseo.seoul.kr"
+  },
+  {
+    "index": 5,
+    "name": "관악구",
+    "image": "https://data.seoul.go.kr/resources/img/content/gu_5.png",
+    "homepage": "http://www.gwanak.go.kr"
+  },
+  {
+    "index": 6,
+    "name": "광진구",
+    "image": "https://data.seoul.go.kr/resources/img/content/gu_6.png",
+    "homepage": "http://www.gwangjin.go.kr"
+  },
+  {
+    "index": 7,
+    "name": "구로구",
+    "image": "https://data.seoul.go.kr/resources/img/content/gu_7.png",
+    "homepage": "http://www.guro.go.kr"
+  },
+  {
+    "index": 8,
+    "name": "금천구",
+    "image": "https://data.seoul.go.kr/resources/img/content/gu_8.png",
+    "homepage": "http://www.geumcheon.go.kr"
+  },
+  {
+    "index": 9,
+    "name": "노원구",
+    "image": "https://data.seoul.go.kr/resources/img/content/gu_9.png",
+    "homepage": "http://www.nowon.go.kr"
+  },
+  {
+    "index": 10,
+    "name": "도봉구",
+    "image": "https://data.seoul.go.kr/resources/img/content/gu_10.png",
+    "homepage": "http://www.dobong.go.kr"
+  },
+  {
+    "index": 11,
+    "name": "동대문구",
+    "image": "https://data.seoul.go.kr/resources/img/content/gu_11.png",
+    "homepage": "http://www.ddm.go.kr"
+  },
+  {
+    "index": 12,
+    "name": "동작구",
+    "image": "https://data.seoul.go.kr/resources/img/content/gu_12.png",
+    "homepage": "http://www.dongjak.go.kr"
+  },
+  {
+    "index": 13,
+    "name": "마포구",
+    "image": "https://data.seoul.go.kr/resources/img/content/gu_13.png",
+    "homepage": "http://www.mapo.go.kr"
+  },
+  {
+    "index": 14,
+    "name": "서대문구",
+    "image": "https://data.seoul.go.kr/resources/img/content/gu_14.png",
+    "homepage": "http://www.sdm.go.kr"
+  },
+  {
+    "index": 15,
+    "name": "서초구",
+    "image": "https://data.seoul.go.kr/resources/img/content/gu_15.png",
+    "homepage": "http://www.seocho.go.kr"
+  },
+  {
+    "index": 16,
+    "name": "성동구",
+    "image": "https://data.seoul.go.kr/resources/img/content/gu_16.png",
+    "homepage": "http://www.sd.go.kr"
+  },
+  {
+    "index": 17,
+    "name": "성북구",
+    "image": "https://data.seoul.go.kr/resources/img/content/gu_17.png",
+    "homepage": "http://www.sb.go.kr"
+  },
+  {
+    "index": 18,
+    "name": "송파구",
+    "image": "https://data.seoul.go.kr/resources/img/content/gu_18.png",
+    "homepage": "http://www.songpa.seoul.kr"
+  },
+  {
+    "index": 19,
+    "name": "양천구",
+    "image": "https://data.seoul.go.kr/resources/img/content/gu_19.png",
+    "homepage": "http://www.yangcheon.go.kr"
+  },
+  {
+    "index": 20,
+    "name": "영등포구",
+    "image": "https://data.seoul.go.kr/resources/img/content/gu_20.png",
+    "homepage": "http://www.ydp.go.kr"
+  },
+  {
+    "index": 21,
+    "name": "용산구",
+    "image": "https://data.seoul.go.kr/resources/img/content/gu_21.png",
+    "homepage": "http://www.yongsan.go.kr"
+  },
+  {
+    "index": 22,
+    "name": "은평구",
+    "image": "https://data.seoul.go.kr/resources/img/content/gu_22.png",
+    "homepage": "http://www.ep.go.kr"
+  },
+  {
+    "index": 23,
+    "name": "종로구",
+    "image": "https://data.seoul.go.kr/resources/img/content/gu_23.png",
+    "homepage": "http://www.jongno.go.kr"
+  },
+  {
+    "index": 24,
+    "name": "중구",
+    "image": "https://data.seoul.go.kr/resources/img/content/gu_24.png",
+    "homepage": "http://www.junggu.seoul.kr"
+  },
+  {
+    "index": 25,
+    "name": "중랑구",
+    "image": "https://data.seoul.go.kr/resources/img/content/gu_25.png",
+    "homepage": "http://www.jungnang.go.kr"
+  }
+]
