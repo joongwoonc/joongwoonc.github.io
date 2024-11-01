@@ -1,0 +1,13 @@
+export const ZODIAC1 = "쥐,소,호랑이,토끼,용,뱀,말,양,원숭이,닭,개,돼지".split(",");
+export const ZODIAC2 = "자,축,인,묘,진,사,오,미,신,유,술,해".split(",");
+export const ZODIAC3 = "子,丑,寅,卯,辰,巳,午,未,申,酉,戌,亥".split(",");
+export const HOURS = "23시~01시,01시~03시,03시~05시,05시~07시,07시~-09시,09시~11시,11시~13시,13시~15시,15시~17시,17시~19시,19시~21시,21시~23시".split(",")
+export const LIVERS1 = "갑,을,병,정,무,기,경,신,임,계".split(",");
+export const LIVERS2 = "甲,乙,丙,丁,戊,己,庚,辛,壬,癸".split(",");
+export const FIVE_COLORS1 = "청,청,적,적,황,황,백,백,흑,흑".split(",");
+export const FIVE_COLORS2 = "靑,靑,赤,赤,黃,黃,白,白,黑,黑".split(",");
+export const FIVE_COLORS3 = "푸른,푸른,붉은,붉은,황금,황금,한얀,하얀,검은,검은".split(",");
+export const FIVE_ELEMENTS1 = "목,목,화,화,토,토,금,금,수,수,".split(",")
+export const FIVE_ELEMENTS2 = "木,木,火,火,土,土,金,金,水,水".split(",")
+export const LONGEVITY = "해,산,물,돌,구름(또는 달),소나무,불로초,거북이,학,사슴(또는 대나무)".split(",");
+export const NAMES = "한놈,두시기,석삼,너구리,오징어,육계장,칠면조,팔다리,구두쇠,쨍그랑".split(",");
